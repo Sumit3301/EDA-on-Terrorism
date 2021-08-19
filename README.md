@@ -17,7 +17,8 @@
 4.  Converting Image to Grayscale
 5.  Inverting the image
 6.  Applying gaussian blur to the inverted image
-7.   Inverting blurred image
+7.  Inverting blurred image
+&nbsp;
 *Dataset for task 1 can be found [https://bit.ly/2TK5Xn5](here)*
 *Refrence for Task 4 can be found[https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/](here)*
 
